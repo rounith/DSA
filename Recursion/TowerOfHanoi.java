@@ -10,7 +10,6 @@ public class TowerOfHanoi {
 
         // Recursive call: move n-1 blocks from src to helper using dest
         print(n - 1, src, dest, helper);
-
         // Print the step of moving the nth block from src to dest
         System.out.println("Move block " + n + " from " + src + " to " + dest);
         // Recursive call: move n-1 blocks from helper to dest using src
@@ -18,7 +17,7 @@ public class TowerOfHanoi {
     }
 
     public static void main(String[] args) {
-        int n = 4; // Number of blocks
+        int n = 3; // Number of blocks
         print(n, "s", "h", "d");
     }
 }

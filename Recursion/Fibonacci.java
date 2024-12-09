@@ -10,6 +10,7 @@ public class Fibonacci {
     public static void main(String[] args) {
         System.out.println(0);
         System.out.println(1);
-        print(0,1,5);
+        int num=7;
+        print(0,1,num-2);
     }
 }
