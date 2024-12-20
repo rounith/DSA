@@ -1,8 +1,8 @@
-package String;
+package Strings.StringDatatype;
 
 //Strings are immutable
 
-public class StringFunctions {
+public class StringBasics {
     public static void main(String[] args) {
         //1.concat (+)
         String first="Tony";

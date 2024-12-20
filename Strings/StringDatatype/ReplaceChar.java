@@ -1,4 +1,4 @@
-package String;
+package Strings.StringDatatype;
 import java.util.*;
 public class ReplaceChar {
     public static void main(String[] args) {

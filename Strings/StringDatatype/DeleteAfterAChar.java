@@ -1,4 +1,4 @@
-package String;
+package Strings.StringDatatype;
 
 public class DeleteAfterAChar {
     public static void main(String[] args) {
