@@ -1,6 +1,9 @@
 package Strings.StringDatatype;
 
 //Strings are immutable
+//.equals() is used to compare the content of the string
+// == is used to compare the reference of the string.
+// we can use printf to format the string
 
 public class StringBasics {
     public static void main(String[] args) {

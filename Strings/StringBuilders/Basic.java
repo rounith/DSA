@@ -1,4 +1,4 @@
-package Strings.StringBuilders;
+package StringBuilders;
 
 public class Basic {
     public static void main(String[] args) {
