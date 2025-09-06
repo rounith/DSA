@@ -1,4 +1,4 @@
-package Strings.StringDatatype;
+package StringDatatype;
 
 //Strings are immutable
 //.equals() is used to compare the content of the string

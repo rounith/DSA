@@ -1,4 +1,4 @@
-package Strings.StringDatatype;
+package StringDatatype;
 
 public class Operators {
     public static void main(String[] args) {
